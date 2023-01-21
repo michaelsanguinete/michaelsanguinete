@@ -1,4 +1,4 @@
-## Olá eu sou Michael Sanguinete, estudando de sistemas de informação na PUC Minas.
+## Olá eu sou Michael Sanguinete, estudante de sistemas de informação na PUC Minas.
 
 Com conhecimento já em Back-end (JAVA/Spring Boot), também no processo de aprendizado de linguanges de front-end para expandir o conhecimento.
 
